@@ -19,4 +19,7 @@ steps to clone this webapp:
 3. cd udemy-react-1
 4. npm install
 5. npm run dev
-6. start using
+6. cd ..
+7. cd backend
+8. nodemon/node index.js
+9. start using 
