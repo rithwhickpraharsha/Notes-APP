@@ -11,3 +11,12 @@ Here is the preview of functionalities
 
 ![image](https://github.com/rithwhickpraharsha/Notes-APP/assets/92135998/65a17e0f-4fff-4de1-bda6-7f9e8cd15be2)
 
+
+steps to clone this webapp:
+
+1. git clone repo
+2. cd react-1
+3. cd udemy-react-1
+4. npm install
+5. npm run dev
+6. start using
